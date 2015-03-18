@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.widget.ImageButton"/>
+<fullyQualifiedTypeName name="android.app.SearchManager.OnCancelListener"/>
+<fullyQualifiedTypeName name="android.content.DialogInterface.OnClickListener"/>
+<fullyQualifiedTypeName name="android.content.res.AssetFileDescriptor.AutoCloseInputStream"/>
+<fullyQualifiedTypeName name="com.example.mytextview.R.id"/>
+<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.AutoCompleteTextView"/>
+<fullyQualifiedTypeName name="com.misok.helloworld.R.id"/>
+<fullyQualifiedTypeName name="android.widget.MultiAutoCompleteTextView"/>
+<fullyQualifiedTypeName name="android.widget.MultiAutoCompleteTextView.CommaTokenizer"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="com.example.calculatedemo.SecondActivity"/>
+<fullyQualifiedTypeName name="com.example.calculatedemo.MainActivity"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="com.example.calculatedemo.R.id"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+</qualifiedTypeNameHistroy>
